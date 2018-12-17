@@ -1,0 +1,99 @@
+[
+  {
+    "id": 0,
+    "brand": "JIMMY CHOO",
+    "name": "Coltsly hi-top sneakers",
+    "image": "https://cdn-images.farfetch-contents.com/13/00/85/20/13008520_13754887_1000.jpg",
+    "price": 575,
+    "sizes": [39, 40, 40.5, 41, 41.5, 42, 42.5, 43, 43.5, 44, 45],
+    "color": "white",
+    "popular": 342,
+    "composition": "leather 100%",
+    "manufacture": "Italy"
+  },
+  {
+    "id": 1,
+    "brand": "SALVATORE FERRAGAMO",
+    "name": "twisted Gancio loafers",
+    "image": "https://cdn-images.farfetch-contents.com/13/00/70/83/13007083_13759117_1000.jpg",
+    "price": 492,
+    "sizes": [40, 41, 42, 42.5, 43, 43.5],
+    "color": "nero",
+    "popular": 3464,
+    "composition": "leather 100%",
+    "manufacture": "Italy"
+  },
+  {
+    "id": 2,
+    "brand": "GIUSEPPE ZANOTTI DESIGN",
+    "name": "May sneakers",
+    "image": "https://cdn-images.farfetch-contents.com/13/00/18/66/13001866_13748482_1000.jpg",
+    "price": 695,
+    "sizes": [37, 38, 38.5, 39, 40, 41, 41.5, 42],
+    "color": "red",
+    "popular": 12,
+    "composition": "leather 100%",
+    "manufacture": "Italy"
+  },
+  {
+    "id": 3,
+    "brand": "KARHU",
+    "name": "Fusion 2.0 Laulujoutsen Pack sneakers",
+    "image": "https://cdn-images.farfetch-contents.com/13/00/12/21/13001221_13754429_1000.jpg",
+    "price": 158,
+    "sizes": [39, 40, 40.5, 41, 41.5, 43, 43.5, 44],
+    "color": "silver birch/sedona",
+    "popular": 73,
+    "composition": "leather 100%",
+    "manufacture": "Imported"
+  },
+  {
+    "id": 4,
+    "brand": "PRADA",
+    "name": "logo patch high top sneakers",
+    "image": "https://cdn-images.farfetch-contents.com/12/99/70/94/12997094_13719671_1000.jpg",
+    "price": 690,
+    "sizes": [36, 37, 37.5, 38, 39, 39.5, 40, 42, 42.5],
+    "color": "nero",
+    "popular": 97,
+    "composition": "leather 100%",
+    "manufacture": "Italy"
+  },
+  {
+    "id": 5,
+    "brand": "BIRKENSTOCK",
+    "name": "T-bar sandals",
+    "image": "https://cdn-images.farfetch-contents.com/12/03/42/74/12034274_9839760_1000.jpg",
+    "price": 80,
+    "sizes": [38, 38.5, 39, 40, 41.5, 42, 43, 45],
+    "color": "white",
+    "popular": 943,
+    "composition": "rubber 100%",
+    "manufacture": "Germany"
+  },
+  {
+    "id": 6,
+    "brand": "NEW BALANCE",
+    "name": "Club C 85 sneakers",
+    "image": "https://cdn-images.farfetch-contents.com/12/52/55/64/12525564_11847332_1000.jpg",
+    "price": 180,
+    "sizes": [38, 39, 40, 41, 41.5, 42, 43, 43.5, 44],
+    "color": "burgundy",
+    "popular": 2101,
+    "composition": "suede 100%",
+    "manufacture": "United States"
+  },
+  {
+    "id": 7,
+    "brand": "LE COQ SPORTIF",
+    "name": "perforated performance sole sneakers",
+    "image": "https://cdn-images.farfetch-contents.com/12/69/92/79/12699279_12531692_1000.jpg",
+    "price": 197,
+    "sizes": [37, 38, 38.5, 39, 40, 40.5, 41, 42, 43.5, 44],
+    "color": "white",
+    "popular": 753,
+    "composition": "leather 100%",
+    "manufacture": "France"
+  }
+
+]
